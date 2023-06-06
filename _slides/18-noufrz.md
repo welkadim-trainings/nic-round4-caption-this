@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Nouf's caption
 
 ![orderedlistocat](https://octodex.github.com/images/orderedlistocat.png)
 {: .center}
